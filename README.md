@@ -1,7 +1,7 @@
 ## Analysis of COVID19 Trends for NYC 
 #### Project to analyze the spread and impact of COVID-19 in NYC
 
-This independent research study utilizes CDC.gov data to explore the spread and impact of COVID-19 through NYC. Some of the questions asked in this study are - how and when COVID-19 spread through the city, how the different variants impacted us and what was the impact of the lockdowns, reopenings and vaccinations on the spread of the virus. Further, the study also explores if there are any commonalities in the health conditions associated with COVID related deaths. The relevant timeperiod is Jan 2020 to Sep 2022. 
+This independent research study utilizes CDC.gov data to explore the spread and impact of COVID-19 through NYC. Some of the questions analyzed in this study are - how and when COVID-19 spread through the city, how the different variants impacted us and what was the impact of the lockdowns, reopenings and vaccinations on the spread of the virus. Further, the study also explores if there are any commonalities in the health conditions associated with COVID related deaths. The relevant timeperiod is Jan 2020 to Sep 2022. 
 
 ![MonthlyNewCasesTrends.png](MonthlyNewCasesTrends.png)
 ![MonthlyDeaths.png](MonthlyDeaths.png)
