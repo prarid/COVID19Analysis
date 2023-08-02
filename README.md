@@ -10,7 +10,7 @@ The data for this study covers the timeperiod from Jan 2020 to Sep 2022 and has 
 ### Key Observations
 #### New Cases and Trends
 
-![MonthlyNewCasesTrends.png](UnderTheHood/FigA1MonthlyNewCasesTrends.png)
+![MonthlyNewCasesTrends.png](UnderTheHood/MonthlyNewCasesTrends.png)
 ![MonthlyDeaths.png](UnderTheHood/FigA2MonthlyDeaths.png)
 
 
