@@ -11,7 +11,7 @@ The data for this study covers the timeperiod from Jan 2020 to Sep 2022 and has 
 #### New Cases and Trends
 
 ![MonthlyNewCasesTrends.png](UnderTheHood/MonthlyNewCasesTrends.png)
-![MonthlyDeaths.png](UnderTheHood/FigA2MonthlyDeaths.png)
+![MonthlyDeaths.png](UnderTheHood/MonthlyDeaths.png)
 
 
 The largest increase in new cases was seen in Dec 2021 through Jan 2022, which outpaces new case increases seen in any other period during the pandemic, including April 2020. 
