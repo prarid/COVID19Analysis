@@ -40,3 +40,20 @@ There appear to be three main Conditions associated with COVID-19 related deaths
 
 Further details on the underlying subconditions for each group are also shown below in Fig B3.
 ![FigB3.png](UnderTheHood/FigB3.png)
+
+
+
+### References
+* https://www.cdc.gov/
+* https://en.wikipedia.org/wiki/Centers_for_Disease_Control_and_Prevention 
+* https://apnews.com/article/how-long-covid-19-illness-last-476754619ef76504abd1d7722b4b50a6
+* https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007007
+* https://covariants.org
+* https://www.nytimes.com/interactive/2021/health/coronavirus-variant-tracker.html
+* https://www.cdc.gov/coronavirus/2019-ncov/variants/variant-classifications.html
+* https://www.cnbc.com/2020/03/07/new-york-governor-andrew-cuomo-declares-state-of-emergency-over-coronavirus-outbreak.html
+* https://www.governor.ny.gov/news/governor-cuomo-issues-guidance-essential-services-under-new-york-state-pause-executive-order
+* https://www.governor.ny.gov/news/amid-ongoing-covid-19-pandemic-governor-cuomo-issues-executive-order-requiring-all-people-new
+* https://en.wikipedia.org/wiki/COVID-19_pandemic_in_New_York_City
+* https://web.archive.org/web/20200309082540/https://www.nytimes.com/2020/03/07/nyregion/coronavirus-new-york-queens.html
+* https://www.investopedia.com/historical-timeline-of-covid-19-in-new-york-city-5071986
